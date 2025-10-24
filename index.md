@@ -14,6 +14,7 @@ Aquí te explico para qué sirve cada uno de ellos.
 Los puertos USB se usan para conectar dispositivos como teclados, ratones, memorias USB o impresoras.  
 El puerto PS/2, que es el redondo, se usaba antes para teclados y ratones, pero hoy casi todo se conecta por USB.
 
+<img width="68" height="171" alt="imagen" src="https://github.com/user-attachments/assets/b0e5cde0-417f-43b3-a6b2-4d219afe1b5e" />
 
 
 ---
