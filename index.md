@@ -1,18 +1,115 @@
-# Puertos y conectores de una placa madre
+# Puertos y conectores de una placa base
 
-En la parte de atrás de la placa madre se pueden ver varios puertos y conectores.  
-Cada uno tiene una función diferente y sirve para conectar cosas al ordenador.  
-Aquí te explico para qué sirve cada uno de ellos.
+En la parte trasera de la placa base se pueden ver varios puertos y conectores.  
+Cada uno tiene una función distinta y sirve para conectar diferentes dispositivos al ordenador.  
+A continuación te explico para qué sirve cada uno.
 
-<img width="727" height="214" alt="imagen" src="https://github.com/user-attachments/assets/d6bea9fe-0adf-424b-b385-1849a701b497" />
+![conectores](https://github.com/user-attachments/assets/f07b53de-35ec-4124-82e6-f227e2023d29)
 
 ---
 
 ## 1. Puertos USB y PS/2
 
-Los puertos USB se usan para conectar dispositivos como teclados, ratones, memorias USB o impresoras.  
-El puerto PS/2, que es el redondo, se usaba antes para teclados y ratones, pero hoy casi todo se conecta por USB.
+Los puertos USB se utilizan para conectar dispositivos como teclados, ratones, memorias USB o impresoras.  
+El puerto PS/2, que es redondo, se usaba antes para teclados y ratones, pero hoy en día casi todo se conecta por USB.
 
-<img width="68" height="171" alt="imagen" src="https://github.com/user-attachments/assets/b0e5cde0-417f-43b3-a6b2-4d219afe1b5e" />
+<img width="68" height="171" alt="foto1_markdown" src="https://github.com/user-attachments/assets/de99ec38-e901-4e98-b2df-29fef0b2ac32" />
 
 ---
+
+## 2. Puerto S/PDIF (óptico)
+
+El puerto S/PDIF sirve para enviar sonido digital con buena calidad.  
+Se utiliza para conectar el ordenador a equipos de sonido y funciona con fibra óptica o cable coaxial para evitar interferencias.
+
+<img width="42" height="86" alt="foto2_markdown" src="https://github.com/user-attachments/assets/90da3fbd-63fd-42c1-be7f-04a2304f4fe0" />
+
+---
+
+## 3. Puerto HDMI
+
+El puerto HDMI transmite vídeo y audio digital a través de un solo cable.  
+Es muy común y se usa para conectar el ordenador a monitores o televisores modernos.
+
+<img width="70" height="76" alt="foto3_markdown" src="https://github.com/user-attachments/assets/77e0dc79-981a-4253-8cc5-10cefdb24fdd" />
+
+---
+
+## 4. Puerto DisplayPort
+
+El DisplayPort también transmite audio y vídeo, de forma parecida al HDMI.  
+La diferencia es que puede ofrecer mejor calidad de imagen y se usa mucho en monitores y tarjetas gráficas más actuales.
+
+<img width="70" height="73" alt="foto4_markdown" src="https://github.com/user-attachments/assets/798017ff-a03e-4da1-84dc-8b581ece40c7" />
+
+---
+
+## 5. Puerto VGA
+
+El VGA es un conector más antiguo que se utilizaba para conectar monitores viejos.  
+Aunque ya casi no se usa, todavía aparece en algunos equipos por compatibilidad.
+
+<img width="121" height="88" alt="foto5_markdown" src="https://github.com/user-attachments/assets/10ec5a70-afde-4cb5-a553-638a59a31c48" />
+
+---
+
+## 6. Puerto DVI
+
+El DVI fue una mejora del VGA y servía para conectar el monitor a la tarjeta gráfica.  
+Transmite vídeo digital y, en algunos casos, también analógico, aunque hoy en día ha sido reemplazado por el HDMI y el DisplayPort.
+
+---
+
+## 7. Puerto serie o COM
+
+El puerto serie, también llamado COM, se usaba para conectar dispositivos antiguos como ratones, módems o aparatos industriales.  
+Actualmente apenas se utiliza, pero algunas placas base todavía lo incluyen por compatibilidad.
+
+---
+
+## 8. Puerto eSATA
+
+El puerto eSATA se emplea para conectar discos duros externos y permite transferir datos a gran velocidad.  
+Era muy útil para mover archivos grandes, aunque hoy se suele usar más el USB 3.0.
+
+---
+
+## 9. Puertos USB 2.0 y 3.0
+
+Hay distintos tipos de puertos USB.  
+Los USB 2.0 son más lentos y los USB 3.0 son mucho más rápidos.  
+Normalmente los puertos azules son USB 3.0 y los negros o rojos son 2.0.
+
+| Tipo | Color | Velocidad máxima | Uso común |
+|------|--------|------------------|------------|
+| USB 2.0 | Rojo o negro | 480 Mbps | Teclados, ratones, memorias USB |
+| USB 3.0 | Azul | 5 Gbps | Discos duros externos, periféricos rápidos |
+
+---
+
+## 10. Puerto Ethernet o RJ-45
+
+El puerto Ethernet se utiliza para conectar el ordenador a Internet mediante un cable de red.  
+Este tipo de conexión es más estable y rápida que el Wi-Fi, y se usa mucho en casas, oficinas y centros educativos.
+
+---
+
+## 11. Conectores de audio
+
+Estos conectores permiten enchufar altavoces, micrófonos o auriculares.
+
+| Color | Función |
+|--------|----------|
+| Verde | Salida de audio (auriculares o altavoces) |
+| Rosa | Entrada de micrófono |
+| Azul | Entrada de línea |
+| Negro o gris | Canales traseros o laterales (para sonido 5.1 o 7.1) |
+
+Algunas placas base también incluyen un conector óptico para audio digital.
+
+---
+
+## Conclusión
+
+Cada puerto de la placa base tiene su función y permite conectar distintos dispositivos.  
+Conocerlos es importante para saber cómo montar, mantener o utilizar correctamente un ordenador.
