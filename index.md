@@ -58,6 +58,8 @@ Aunque ya casi no se usa, todavía aparece en algunos equipos por compatibilidad
 El DVI fue una mejora del VGA y servía para conectar el monitor a la tarjeta gráfica.  
 Transmite vídeo digital y, en algunos casos, también analógico, aunque hoy en día ha sido reemplazado por el HDMI y el DisplayPort.
 
+<img width="121" height="83" alt="foto6_markdown" src="https://github.com/user-attachments/assets/56dab824-a254-4755-a5be-c8538f821fd8" />
+
 ---
 
 ## 7. Puerto serie o COM
@@ -65,12 +67,16 @@ Transmite vídeo digital y, en algunos casos, también analógico, aunque hoy en
 El puerto serie, también llamado COM, se usaba para conectar dispositivos antiguos como ratones, módems o aparatos industriales.  
 Actualmente apenas se utiliza, pero algunas placas base todavía lo incluyen por compatibilidad.
 
+<img width="119" height="111" alt="foto7_markdown" src="https://github.com/user-attachments/assets/ffdbeb36-6b25-4e0d-9ed2-a8e326c93720" />
+
 ---
 
 ## 8. Puerto eSATA
 
 El puerto eSATA se emplea para conectar discos duros externos y permite transferir datos a gran velocidad.  
 Era muy útil para mover archivos grandes, aunque hoy se suele usar más el USB 3.0.
+
+<img width="52" height="112" alt="foto8_markdown" src="https://github.com/user-attachments/assets/bd1ed588-da36-4989-88ec-e2d9a488c7ab" />
 
 ---
 
@@ -85,12 +91,16 @@ Normalmente los puertos azules son USB 3.0 y los negros o rojos son 2.0.
 | USB 2.0 | Rojo o negro | 480 Mbps | Teclados, ratones, memorias USB |
 | USB 3.0 | Azul | 5 Gbps | Discos duros externos, periféricos rápidos |
 
----
+
+---<img width="55" height="151" alt="foto9_markdown" src="https://github.com/user-attachments/assets/f3581d26-7f74-4e69-930f-d346cfda7ca0" />
+
 
 ## 10. Puerto Ethernet o RJ-45
 
 El puerto Ethernet se utiliza para conectar el ordenador a Internet mediante un cable de red.  
 Este tipo de conexión es más estable y rápida que el Wi-Fi, y se usa mucho en casas, oficinas y centros educativos.
+
+<img width="84" height="165" alt="foto10_markdown" src="https://github.com/user-attachments/assets/e2137cce-3e35-43b4-9e55-dcf99e107ca4" />
 
 ---
 
@@ -106,6 +116,8 @@ Estos conectores permiten enchufar altavoces, micrófonos o auriculares.
 | Negro o gris | Canales traseros o laterales (para sonido 5.1 o 7.1) |
 
 Algunas placas base también incluyen un conector óptico para audio digital.
+
+<img width="106" height="174" alt="foto11_markdown" src="https://github.com/user-attachments/assets/3f13eafc-b799-4a47-ab0a-008af4da6f6a" />
 
 ---
 
