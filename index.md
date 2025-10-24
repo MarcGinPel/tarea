@@ -4,6 +4,9 @@ En la parte de atrás de la placa madre se pueden ver varios puertos y conectore
 Cada uno tiene una función diferente y sirve para conectar cosas al ordenador.  
 Aquí te explico para qué sirve cada uno de ellos.
 
+<img width="727" height="214" alt="imagen" src="https://github.com/user-attachments/assets/d6bea9fe-0adf-424b-b385-1849a701b497" />
+
+
 ---
 
 ## 1. Puertos USB y PS/2
